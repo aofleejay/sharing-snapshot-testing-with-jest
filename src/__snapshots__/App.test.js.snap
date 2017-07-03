@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test app component full snapshot 1`] = `
+<section
+  className="hero is-primary"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    >
+      <h1
+        className="title"
+      >
+        React Snapshot Testing With Jest
+      </h1>
+      <h2
+        className="subtitle"
+      >
+        Kunapot Pairat
+      </h2>
+      <div>
+        Repository: 
+        <a
+          href="https://github.com/aofleejay/snapshot-testing-workshop-with-jest"
+          target="_blank"
+        >
+          https://github.com/aofleejay/snapshot-testing-workshop-with-jest
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`Test app component shallow snapshot 1`] = `
+<section
+  className="hero is-primary"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    >
+      <h1
+        className="title"
+      >
+        React Snapshot Testing With Jest
+      </h1>
+      <h2
+        className="subtitle"
+      >
+        Kunapot Pairat
+      </h2>
+      <Link />
+    </div>
+  </div>
+</section>
+`;
